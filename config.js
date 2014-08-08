@@ -47,25 +47,12 @@
 exports.config = config;
 
 var accessHandler = require("./lib/access");
-var bindHandler = require("./lib/bind");
 var menuHandler = require("./lib/menu");
-var mediaHandler = require("./lib/media");
-var qrHandler = require("./lib/qr");
 var handle = {};
 handle["/"] = accessHandler.homepage;
 handle["/access"] = accessHandler.access;
-handle["/push"] = accessHandler.push;
-handle["/bind"] = bindHandler.bind;
 handle["/callback"] = bindHandler.callback;
 handle["/menu/create"] = menuHandler.createmenu;
 handle["/menu/remove"] = menuHandler.removemenu;
 handle["/media/get"] = mediaHandler.getmedia;
-handle["/qr/get"] = qrHandler.getqrcode;
-handle["/qr/getcaptcha"] = qrHandler.getqrcodecaptcha;
-handle["/qr/getcaptchavalue"] = qrHandler.getqrcodecaptchavalue;
-handle["/code/get"] = qrHandler.getsessionqrcode;
-handle["/code/confirm"] = qrHandler.confirmsessionqrcode;
-handle["/code/pollings"] = qrHandler.pollingsessionscanedqrcode;
-handle["/code/pollingc"] = qrHandler.pollingsessionconfirmedqrcode;
-handle["/chat/"] = qrHandler.pollingsessionconfirmedqrcode;
 exports.router = handle;
