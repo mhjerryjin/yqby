@@ -1,6 +1,6 @@
 ﻿var config = {
     server: {
-        port: 80
+        port: 3000
     },
     redis: {
         host: 'pub-redis-17756.us-east-1-2.1.ec2.garantiadata.com',
