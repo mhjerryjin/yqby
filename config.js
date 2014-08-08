@@ -20,9 +20,9 @@
         accesstokenExpiretime: 60
     },
     weixin: {
-        token: '',
-        appkey: '',
-        appsecret: '',
+        token: 'xxoo',
+        appkey: 'wx21b41014a26161dd',
+        appsecret: '9c3934bd17bfe6d7292c1c056435709d',
         api:
         {
             access_token: 'https://api.weixin.qq.com/cgi-bin/token',
@@ -35,11 +35,10 @@
             userinfo: 'https://api.weixin.qq.com/cgi-bin/user/info?lang=zh_CN'
         },
         menu: {
-            eventkey11: 'md_share',
-            eventkey12: 'md_appurl',
-            eventkey13: 'md_contact',
-            eventkey21: 'md_bind',
-            eventkey31: 'md_about'
+            eventkey11: 'post_task_start',
+            eventkey12: 'post_task_end',
+            eventkey21: 'my_task',
+            eventkey31: 'personal_center'
         }
     },
     filepath: 'd:/weixin/',
