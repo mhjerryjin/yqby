@@ -3,15 +3,14 @@
         port: 3000
     },
     redis: {
-        host: 'pub-redis-17756.us-east-1-2.1.ec2.garantiadata.com',
-        port: 17756,
-        password: 'yqby',
+        host: '127.0.0.1',
+        port: 6379,
         storage: {
-            mainkey: 'md_weixin',
-            mainMDkey: 'md_user_weixin',
-            userlpPrefix: 'md_wx_',
-            usergroupPrefix: 'md_wxug_',
-            accesstokenKey: 'md_wxat'
+            mainkey: 'yqby_weixin',
+            mainMDkey: 'yqby_user_weixin',
+            userlpPrefix: 'yqby_wx_',
+            usergroupPrefix: 'yqby_wxug_',
+            accesstokenKey: 'yqby_wxat'
         },
         //用户上次操作有效时间
         userlpExpiretime: 5,
