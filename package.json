@@ -1,0 +1,36 @@
+{
+  "name": "有求必应",
+  "version": "1.0.0",
+  "description": "有求必应",
+  "keywords": [
+    "answer",
+    "question"
+  ],
+  "dependencies": {
+  "async": ">=0.2.9",
+  "cookie": ">=0.1.0",
+  "form-data": ">=0.1.2",
+  "memcached": ">=0.2.6",
+  "mime": ">=1.2.11",
+  "redis": ">=0.8.6",
+  "request": ">=2.27.0",
+  "xmldom": ">=0.1.16",
+  "xpath": ">=0.0.3"
+  },
+  "devDependencies": {
+  },
+  "contributors": [
+    {
+      "name": "Jerry",
+      "email": "jerry.jin@mingdao.com"
+    },
+    {
+      "name": "Sin",
+      "email": "sin.zhou@mingdao.com"
+    },
+	  {
+		  "name": "Song",
+		  "email": "song.wu@mingdao.com"
+	  }
+  ]
+}

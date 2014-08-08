@@ -1,0 +1,1589 @@
+
+Mon Nov 04 2013 15:06:27 GMT+0800 (CST)	weixin:dafds	sha1:d0e8e217f8cdc4d5b42795052999b2b054b12c05	para:mdweixin888,sdfa,wew
+Mon Nov 04 2013 15:06:27 GMT+0800 (CST)	weixin:dafds	sha1:d0e8e217f8cdc4d5b42795052999b2b054b12c05	para:mdweixin888,sdfa,wew
+Mon Nov 04 2013 15:08:04 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383548883</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[呵呵]]></Content>
+<MsgId>5942297204902330437</MsgId>
+</xml>
+Wed Nov 06 2013 09:07:37 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383700057</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[呵呵]]></Content>
+<MsgId>5942946492288335946</MsgId>
+</xml>
+Wed Nov 06 2013 09:59:41 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383703180</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[呵呵]]></Content>
+<MsgId>5942959905471201356</MsgId>
+</xml>
+Wed Nov 06 2013 09:59:41 GMT+0800 (CST)	1383703181111
+Wed Nov 06 2013 10:02:11 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383703331</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ ffff]]></Content>
+<MsgId>5942960554011263053</MsgId>
+</xml>
+Wed Nov 06 2013 10:02:11 GMT+0800 (CST)	[object Object] [object Object]
+Wed Nov 06 2013 10:22:07 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383704527</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[饭否发]]></Content>
+<MsgId>5942965690792149072</MsgId>
+</xml>
+Wed Nov 06 2013 10:22:08 GMT+0800 (CST)	null null
+Wed Nov 06 2013 10:24:56 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383704696</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[饭否]]></Content>
+<MsgId>5942966416641622097</MsgId>
+</xml>
+Wed Nov 06 2013 10:24:56 GMT+0800 (CST)	[object Object] [object Object]
+Wed Nov 06 2013 10:27:56 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383704875</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[rrd]]></Content>
+<MsgId>5942967185440768082</MsgId>
+</xml>
+Wed Nov 06 2013 10:27:56 GMT+0800 (CST)	undefined undefined
+Wed Nov 06 2013 10:28:36 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383704916</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[把 vv]]></Content>
+<MsgId>5942967361534427219</MsgId>
+</xml>
+Wed Nov 06 2013 10:28:36 GMT+0800 (CST)	<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName> <ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+Wed Nov 06 2013 10:29:51 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383704991</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fff]]></Content>
+<MsgId>5942967683656974420</MsgId>
+</xml>
+Wed Nov 06 2013 10:29:51 GMT+0800 (CST)	undefined undefined
+Wed Nov 06 2013 10:36:44 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383705404</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[的]]></Content>
+<MsgId>5942969457478467670</MsgId>
+</xml>
+Wed Nov 06 2013 10:36:44 GMT+0800 (CST)	<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName> <ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+Wed Nov 06 2013 10:41:44 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383705703</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ddd]]></Content>
+<MsgId>5942970741673689175</MsgId>
+</xml>
+Wed Nov 06 2013 10:41:44 GMT+0800 (CST)	undefined undefined
+Wed Nov 06 2013 10:50:58 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383706256</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[的方法]]></Content>
+<MsgId>5942973116790603866</MsgId>
+</xml>
+Wed Nov 06 2013 10:50:58 GMT+0800 (CST)	oCNs9uBF0nastegIRabNcREmyG9s gh_2b93def68cf2
+Wed Nov 06 2013 10:52:51 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383706371</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈哈]]></Content>
+<MsgId>5942973610711842908</MsgId>
+</xml>
+Wed Nov 06 2013 12:09:18 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383710958</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hi]]></Content>
+<MsgId>5942993311726829662</MsgId>
+</xml>
+Wed Nov 06 2013 12:15:52 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383711352</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[饭否发]]></Content>
+<MsgId>5942995003943944288</MsgId>
+</xml>
+Wed Nov 06 2013 13:55:26 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383717325</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ 还是事实]]></Content>
+<MsgId>5943020657783603323</MsgId>
+</xml>
+Wed Nov 06 2013 14:17:51 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383718670</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fff]]></Content>
+<MsgId>5943026434514616445</MsgId>
+</xml>
+Wed Nov 06 2013 14:37:53 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383719872</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hhh]]></Content>
+<MsgId>5943031597065306239</MsgId>
+</xml>
+Wed Nov 06 2013 15:48:28 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383724107</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[想将微信的消息或文章分享到明]]></Content>
+<MsgId>5943049786251804801</MsgId>
+</xml>
+Wed Nov 06 2013 16:20:18 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383726018</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[dds]]></Content>
+<MsgId>5943057993934307459</MsgId>
+</xml>
+Wed Nov 06 2013 17:28:37 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383730117</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Wed Nov 06 2013 17:29:05 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383730145</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Wed Nov 06 2013 19:17:27 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uFHdZQYtI-X6UQUxDllK9hU]]></FromUserName>
+<CreateTime>1383736646</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Wed Nov 06 2013 21:28:54 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383744533</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[呵呵]]></Content>
+<MsgId>5943137515253792903</MsgId>
+</xml>
+Wed Nov 06 2013 21:33:54 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383744834</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fff]]></Content>
+<MsgId>5943138808038949002</MsgId>
+</xml>
+Wed Nov 06 2013 21:35:31 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383744931</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fff]]></Content>
+<MsgId>5943139224650776716</MsgId>
+</xml>
+Wed Nov 06 2013 21:36:12 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383744972</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[dd]]></Content>
+<MsgId>5943139400744435854</MsgId>
+</xml>
+Wed Nov 06 2013 21:37:53 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383745072</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fff]]></Content>
+<MsgId>5943139830241165456</MsgId>
+</xml>
+Wed Nov 06 2013 21:38:39 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383745118</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ffg]]></Content>
+<MsgId>5943140027809661074</MsgId>
+</xml>
+Wed Nov 06 2013 21:40:35 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383745235</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ffggjk]]></Content>
+<MsgId>5943140530320834708</MsgId>
+</xml>
+Wed Nov 06 2013 21:41:08 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383745267</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ggg]]></Content>
+<MsgId>5943140667759788181</MsgId>
+</xml>
+Wed Nov 06 2013 22:01:45 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383746505</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[dd]]></Content>
+<MsgId>5943145984929300631</MsgId>
+</xml>
+Wed Nov 06 2013 22:06:40 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383746800</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[test]]></Content>
+<MsgId>5943147251944652953</MsgId>
+</xml>
+Wed Nov 06 2013 22:08:06 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383746886</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ffg]]></Content>
+<MsgId>5943147621311840411</MsgId>
+</xml>
+Wed Nov 06 2013 22:09:17 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383746957</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fff]]></Content>
+<MsgId>5943147926254518429</MsgId>
+</xml>
+Wed Nov 06 2013 22:10:56 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383747056</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ffgjk]]></Content>
+<MsgId>5943148351456280736</MsgId>
+</xml>
+Wed Nov 06 2013 22:13:13 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383747193</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ffdss]]></Content>
+<MsgId>5943148939866800290</MsgId>
+</xml>
+Wed Nov 06 2013 22:14:07 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383747247</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hjeef]]></Content>
+<MsgId>5943149171795034276</MsgId>
+</xml>
+Wed Nov 06 2013 22:15:24 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383747324</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fff]]></Content>
+<MsgId>5943149502507516071</MsgId>
+</xml>
+Wed Nov 06 2013 22:15:24 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383747321</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[cvjkgs]]></Content>
+<MsgId>5943149489622614182</MsgId>
+</xml>
+Wed Nov 06 2013 22:16:35 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383747395</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[frgb]]></Content>
+<MsgId>5943149807450194090</MsgId>
+</xml>
+Wed Nov 06 2013 22:17:13 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383747433</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[cvhjhhh]]></Content>
+<MsgId>5943149970658951340</MsgId>
+</xml>
+Wed Nov 06 2013 22:22:36 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383747756</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fff]]></Content>
+<MsgId>5943151357933387950</MsgId>
+</xml>
+Wed Nov 06 2013 22:23:54 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383747833</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ffff]]></Content>
+<MsgId>5943151688645869744</MsgId>
+</xml>
+Wed Nov 06 2013 22:44:32 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uDOALYyVk3fXkDZr_CfyaMY]]></FromUserName>
+<CreateTime>1383749071</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[绑定]]></Content>
+<MsgId>5943157005815382194</MsgId>
+</xml>
+Wed Nov 06 2013 22:47:01 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uDOALYyVk3fXkDZr_CfyaMY]]></FromUserName>
+<CreateTime>1383749221</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[来了]]></Content>
+<MsgId>5943157650060476596</MsgId>
+</xml>
+Wed Nov 06 2013 23:15:26 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uOdJR99jVaakFINoaPgvR4s]]></FromUserName>
+<CreateTime>1383750924</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Wed Nov 06 2013 23:15:36 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJn2KSssj0wO1L_5sOh_WXs]]></FromUserName>
+<CreateTime>1383750936</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Wed Nov 06 2013 23:16:49 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uOdJR99jVaakFINoaPgvR4s]]></FromUserName>
+<CreateTime>1383751009</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[vg1JKZVP1vuOTPYRdONYA30NpSr5J4diHy1bfM4Cu5aifHPlGAS7Ha1I1atBrGZZ]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>5943165329462001848</MsgId>
+<Recognition><![CDATA[]]></Recognition>
+</xml>
+Wed Nov 06 2013 23:17:03 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uOdJR99jVaakFINoaPgvR4s]]></FromUserName>
+<CreateTime>1383751023</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[试试]]></Content>
+<MsgId>5943165389591543994</MsgId>
+</xml>
+Wed Nov 06 2013 23:17:45 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uOdJR99jVaakFINoaPgvR4s]]></FromUserName>
+<CreateTime>1383751064</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/2UaelWJENV4Ykm68FVk7zibiaekkVa2xxMTgzf69sNypYcgIEj7T24cN0FPTKE5iaHUDA88vrQDFxicMFZHu028UqA/0]]></PicUrl>
+<MsgId>5943165565685203132</MsgId>
+<MediaId><![CDATA[e2v73oiQUEcSdMSOQdL2N2gZXIEe4Ju0O9cfvGb9hNw]]></MediaId>
+</xml>
+Thu Nov 07 2013 06:24:23 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLD0O-5kfkeg4SHPtPwipgk]]></FromUserName>
+<CreateTime>1383776663</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 06:27:40 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLD0O-5kfkeg4SHPtPwipgk]]></FromUserName>
+<CreateTime>1383776860</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[好玩]]></Content>
+<MsgId>5943276358661570751</MsgId>
+</xml>
+Thu Nov 07 2013 07:40:58 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMYW3dS3dY6lmpcfaQim3DA]]></FromUserName>
+<CreateTime>1383781258</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 07:42:53 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMYW3dS3dY6lmpcfaQim3DA]]></FromUserName>
+<CreateTime>1383781373</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[试试]]></Content>
+<MsgId>5943295741848977602</MsgId>
+</xml>
+Thu Nov 07 2013 08:21:26 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383783686</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.191937</Location_X>
+<Location_Y>121.420608</Location_Y>
+<Scale>17</Scale>
+<Label><![CDATA[中国上海市长宁区内环高架路入口中山西路内环高架路 邮政编码: 200051]]></Label>
+<MsgId>5943305676108333252</MsgId>
+</xml>
+Thu Nov 07 2013 08:26:41 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383783999</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[iF3iSYvnhi_PevDqisLxKji_UN5I5v6ggcyjLD3tbuVrtV9Uw72neArxfhwgxKeR]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>5943307020433096902</MsgId>
+<Recognition><![CDATA[]]></Recognition>
+</xml>
+Thu Nov 07 2013 08:31:47 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383784306</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fffftesy]]></Content>
+<MsgId>5943308338988056776</MsgId>
+</xml>
+Thu Nov 07 2013 08:33:15 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uDOALYyVk3fXkDZr_CfyaMY]]></FromUserName>
+<CreateTime>1383784395</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[今天全天在外参加会议]]></Content>
+<MsgId>5943308721240146122</MsgId>
+</xml>
+Thu Nov 07 2013 08:42:42 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uCT_p2qXf-1ZcldeDJgfj0g]]></FromUserName>
+<CreateTime>1383784962</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 08:49:07 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uIWcjSBL-ErN0KpQFZGoYJk]]></FromUserName>
+<CreateTime>1383785347</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 08:52:58 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uIWcjSBL-ErN0KpQFZGoYJk]]></FromUserName>
+<CreateTime>1383785578</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈，我也试试]]></Content>
+<MsgId>5943313802186457294</MsgId>
+</xml>
+Thu Nov 07 2013 08:54:00 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uCT_p2qXf-1ZcldeDJgfj0g]]></FromUserName>
+<CreateTime>1383785640</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[Dddd]]></Content>
+<MsgId>5943314068474429648</MsgId>
+</xml>
+Thu Nov 07 2013 08:54:32 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uCT_p2qXf-1ZcldeDJgfj0g]]></FromUserName>
+<CreateTime>1383785672</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[Jddj]]></Content>
+<MsgId>5943314205913383122</MsgId>
+</xml>
+Thu Nov 07 2013 08:58:50 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uESUzHKM2wcAxSxLZ2aElG8]]></FromUserName>
+<CreateTime>1383785930</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 09:00:06 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMJnxRD5yh3Jcq0zn3goMQk]]></FromUserName>
+<CreateTime>1383786006</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 09:01:38 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uCT_p2qXf-1ZcldeDJgfj0g]]></FromUserName>
+<CreateTime>1383786098</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[Try try]]></Content>
+<MsgId>5943316035569451223</MsgId>
+</xml>
+Thu Nov 07 2013 09:02:13 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uESUzHKM2wcAxSxLZ2aElG8]]></FromUserName>
+<CreateTime>1383786133</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[？]]></Content>
+<MsgId>5943316185893306585</MsgId>
+</xml>
+Thu Nov 07 2013 09:02:56 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uCT_p2qXf-1ZcldeDJgfj0g]]></FromUserName>
+<CreateTime>1383786175</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[Hdhdhdh]]></Content>
+<MsgId>5943316366281933019</MsgId>
+</xml>
+Thu Nov 07 2013 09:04:55 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBA2jAExNVI1Eh2Pt34OruI]]></FromUserName>
+<CreateTime>1383786295</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 09:05:31 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uI5UFGV_yPjh3DXjRRMRueU]]></FromUserName>
+<CreateTime>1383786331</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 09:13:55 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uHCBgX7EmQBWTesq8gH4zEM]]></FromUserName>
+<CreateTime>1383786835</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 09:14:57 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uF7qvKBrb3HfUkUJGpJDnb4]]></FromUserName>
+<CreateTime>1383786897</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 09:15:54 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uHCBgX7EmQBWTesq8gH4zEM]]></FromUserName>
+<CreateTime>1383786954</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[tests]]></Content>
+<MsgId>5943319712061456609</MsgId>
+</xml>
+Thu Nov 07 2013 09:30:42 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMKImGRLFQ4kCR2J0ENcNYg]]></FromUserName>
+<CreateTime>1383787841</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 09:36:05 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMKImGRLFQ4kCR2J0ENcNYg]]></FromUserName>
+<CreateTime>1383788164</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[试试]]></Content>
+<MsgId>5943324908971884772</MsgId>
+</xml>
+Thu Nov 07 2013 09:38:34 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uCT_p2qXf-1ZcldeDJgfj0g]]></FromUserName>
+<CreateTime>1383788313</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MjQ0NjQ5Mw==&appmsgid=10001668&itemidx=3&sign=0e0c61703a8db3f996c0cb721be5cd45&uin=MTA2MTU0MTUwMw%3D%3D&key=c61c4fa9345af8129982be07aa96fd8172f661ae43a2a4a1b640126207bb8528927d5b8436879a20844671c66276cefef99ec49ac760d4f7612e8ca9ebb6c15aa0e741f9a0d8472cd97ab0186e5b1d094a8b1c490b6bc827c9b19be452f67698d4ad449e6ae791bb50a37e82aa82e80ad60d94d9db15cb855503f0d19f2ba3a0&devicetype=android-17&version=25000104&lang=zh_CN]]></Content>
+<MsgId>5943325548922011878</MsgId>
+</xml>
+Thu Nov 07 2013 09:49:46 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383788986</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 09:51:02 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uK0wdrE4Xc67w1FneClc4to]]></FromUserName>
+<CreateTime>1383789062</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 09:53:21 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uK0wdrE4Xc67w1FneClc4to]]></FromUserName>
+<CreateTime>1383789200</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[成功了？]]></Content>
+<MsgId>5943329358558003434</MsgId>
+</xml>
+Thu Nov 07 2013 09:54:36 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789276</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5NjAxOTU4MA==&appmsgid=10001668&itemidx=1&sign=7667feb015be9b9b8b86ae74f4e79add&uin=ODE4NDE4MjU%3D&key=703263b870c1e32e04329047c69d246909b6361814f95bd8d0f9a73394bb7500df294323ca60f09460656a260bd78f78&devicetype=android-16&version=25000330&lang=zh_CN]]></Content>
+<MsgId>5943329684975517932</MsgId>
+</xml>
+Thu Nov 07 2013 09:56:13 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789373</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.192098</Location_X>
+<Location_Y>121.420791</Location_Y>
+<Scale>18</Scale>
+<Label><![CDATA[中国上海市长宁区内环高架路入口中山西路内环高架路 邮政编码: 200051]]></Label>
+<MsgId>5943330101587345646</MsgId>
+</xml>
+Thu Nov 07 2013 09:57:07 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789426</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/P9ciaYZjfcTyB2bcF9sVWVeeWzP5NRHiah4HgEwrHngLQCqhKEW2UBFSrkFicBDzs6JlogNx5FicVniaLeXZpUhl5pw/0]]></PicUrl>
+<MsgId>5943330329220612336</MsgId>
+<MediaId><![CDATA[JZHMxwEuiwYJqAuzeVkD2DLnxx5-s1H6AB57OS1wl1-1NiAK6StxgdVPfP2SkeK1]]></MediaId>
+</xml>
+Thu Nov 07 2013 09:57:08 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789427</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/P9ciaYZjfcTyB2bcF9sVWVeeWzP5NRHiahMSicks5jOwcmnibBVNDbgsrjRhBTu4zTutyOWQk6JZjdicF9OzW9HmC2w/0]]></PicUrl>
+<MsgId>5943330333515579634</MsgId>
+<MediaId><![CDATA[6JO9pxXCa0cYiaL_31K9ltWJwxOTLA47iWF1EVNvBDKd1iSIXHrBbHpG6bSYxCux]]></MediaId>
+</xml>
+Thu Nov 07 2013 09:57:08 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789428</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/P9ciaYZjfcTyB2bcF9sVWVeeWzP5NRHiahVK7OPrRJ79Sta81JSAZ7ePOg8kq7tMqI8Cl5mAr9XmLXl3SfwpdBfA/0]]></PicUrl>
+<MsgId>5943330337810546931</MsgId>
+<MediaId><![CDATA[dUR5YDcO66Cts-ovvcoBqOkrsrVz8edW9zVAORwnWfM83SdA5wB2N3mlTD-hZ2GA]]></MediaId>
+</xml>
+Thu Nov 07 2013 09:57:09 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789428</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/P9ciaYZjfcTyB2bcF9sVWVeeWzP5NRHiahqv9GSic2zWiaA85UOQTVs7j0pzsd38Ajs8icJNu8GVupfbYPfxopbaWYQ/0]]></PicUrl>
+<MsgId>5943330337810546934</MsgId>
+<MediaId><![CDATA[BpMh5W4bhX1b1XcWILuG2_Mny_mOhtRYctE9OIychULgeYpYuA3YDQX2UAAVuBkS]]></MediaId>
+</xml>
+Thu Nov 07 2013 09:57:09 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789429</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/P9ciaYZjfcTyB2bcF9sVWVeeWzP5NRHiahhvJuvHHUI8483yRCYed7ZjFDib3ZvBoXfiaPaQ3HT70S09sO3gz0UcDQ/0]]></PicUrl>
+<MsgId>5943330342105514231</MsgId>
+<MediaId><![CDATA[28nwjR3vSSSp1eWq04252DxwEGRqMtnwAMxzk73wNJymNztkIWlulb1rPTigYAXU]]></MediaId>
+</xml>
+Thu Nov 07 2013 09:57:10 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789430</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/P9ciaYZjfcTyB2bcF9sVWVeeWzP5NRHiahMJ5rzUOYlibvGzP8W949UVF0kRRq63wibf7pibaiateHgY4LuJFTXVgqmQ/0]]></PicUrl>
+<MsgId>5943330346400481530</MsgId>
+<MediaId><![CDATA[k9uVxKa1YJr51mOOEiImo4Bwdz796tdPYIipacxQ7P26nOyhs-E0ekcyvEJVKyjn]]></MediaId>
+</xml>
+Thu Nov 07 2013 09:57:11 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789431</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/P9ciaYZjfcTyB2bcF9sVWVeeWzP5NRHiahHtcRQ43FoMibLLTytzr2fLTc2ozp5juEubUPjoicAfk5j0XyZEVClWzQ/0]]></PicUrl>
+<MsgId>5943330350695448827</MsgId>
+<MediaId><![CDATA[VDnYLAduu2HK4FrxXkpixyt50usA-VFo3Onkrzthw0XGI1PRzEziuLG4Pdkp5t4s]]></MediaId>
+</xml>
+Thu Nov 07 2013 09:57:30 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383789450</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[XS4-sO3H4a30DD-e28d1zGvxyCThdzHYkQZC3Z5evR_Er0_ezJIUzw632gKPrcqA]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>5943330432299827454</MsgId>
+<Recognition><![CDATA[]]></Recognition>
+</xml>
+Thu Nov 07 2013 09:58:27 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMKDIId-bVs7Bujxhw1dDpE]]></FromUserName>
+<CreateTime>1383789507</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 10:01:09 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMKDIId-bVs7Bujxhw1dDpE]]></FromUserName>
+<CreateTime>1383789668</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[明道微信测试]]></Content>
+<MsgId>5943331368602697985</MsgId>
+</xml>
+Thu Nov 07 2013 10:01:16 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMYW3dS3dY6lmpcfaQim3DA]]></FromUserName>
+<CreateTime>1383789675</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/vb2gr63VnI1MeRdsxdrMClJ5gawuxN1IPCuIvFAVqqbiafuRylFB41XCWUGo56BQ9lJDJZYmeSicSY2TLObCGVUw/0]]></PicUrl>
+<MsgId>5943331398667469059</MsgId>
+<MediaId><![CDATA[9v7MAN1GUu6XZXvgDKl6jCzvXKzgUPMLLBSrPFZhb2zYf7ImCH5aZ4oTvNEGf-TU]]></MediaId>
+</xml>
+Thu Nov 07 2013 10:11:13 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uDjfi9Kgai7Z9U17dtsdbLQ]]></FromUserName>
+<CreateTime>1383790273</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 10:19:36 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uIOF7MH4XciqTbmzyKZJaDE]]></FromUserName>
+<CreateTime>1383790775</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 10:35:52 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383791751</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[fff]]></Content>
+<MsgId>5943340315019575559</MsgId>
+</xml>
+Thu Nov 07 2013 10:36:27 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383791787</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uft0VVmic29a0oMJuopKonq1ZyAx62jRspE6vibSgeo5LJNgokF8xicNC2w/0]]></PicUrl>
+<MsgId>5943340469638398217</MsgId>
+<MediaId><![CDATA[j0382t4CQZfZ7JTgZJOORGRGIt-T6_qZakubKUAII-hbup56SSZJzhNl8IRzthKy]]></MediaId>
+</xml>
+Thu Nov 07 2013 10:37:48 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383791868</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uft0VVmic29a0oMJuopKonq1ZyAx62jRspE6vibSgeo5LJNgokF8xicNC2w/0]]></PicUrl>
+<MsgId>5943340817530749195</MsgId>
+<MediaId><![CDATA[xD6Lf57QXuo71hJJtMFXWlSU-6kNmHnoYzdJ4AHgcTK90Na0nOE4AmGOzUjZFhYz]]></MediaId>
+</xml>
+Thu Nov 07 2013 11:13:53 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uF7qvKBrb3HfUkUJGpJDnb4]]></FromUserName>
+<CreateTime>1383794032</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[8NlBZB_qVYPvI9D9h7a-_JXY96Lu9LH8RrSNh8zz5iECrnp2JQ3vPh_EbNr7GNLz]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>5943350111839977741</MsgId>
+<Recognition><![CDATA[]]></Recognition>
+</xml>
+Thu Nov 07 2013 11:15:48 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uEiyJ0IKZGlxbHNRsAuJFVM]]></FromUserName>
+<CreateTime>1383794148</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 11:17:45 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uEiyJ0IKZGlxbHNRsAuJFVM]]></FromUserName>
+<CreateTime>1383794265</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/6vxgu7gEkJpvMgHcPiaRsJz9hFJiaRsjxr9AxpEWMibWQTuiaSMwaeCf57LIrPpUSTicJgwTywAvJOy0oGFpf40hsmw/0]]></PicUrl>
+<MsgId>5943351112567357712</MsgId>
+<MediaId><![CDATA[1qDB_POXo8GYdaJL4njApHHUrgqefCCcPkvmOsI7TP1pQ1TK3JhKAfdf7NkMxZ04]]></MediaId>
+</xml>
+Thu Nov 07 2013 11:40:22 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383795622</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uft0VVmic29a0oMJuopKonq1ZyAx62jRspE6vibSgeo5LJNgokF8xicNC2w/0]]></PicUrl>
+<MsgId>5943356940837978386</MsgId>
+<MediaId><![CDATA[S0_bD7HjWxxzI1eQhZvzFEQ6H3p9L5Lf7SyCjWUCaP0T15hOQiRbmb7bF7NL6Hx0]]></MediaId>
+</xml>
+Thu Nov 07 2013 11:42:35 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383795754</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uft0VVmic29a0oMJuopKonq1ZyAx62jRspE6vibSgeo5LJNgokF8xicNC2w/0]]></PicUrl>
+<MsgId>5943357507773661459</MsgId>
+<MediaId><![CDATA[DE8bjMGxtRwsQvaNSmljG9IzDp2e4ZRuOq29coltQvA-w897ZCNk2XszproBeCsA]]></MediaId>
+</xml>
+Thu Nov 07 2013 11:49:08 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383796147</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uf4aCHQZLXNJ16IrcQW0anic1L4BpC4TVrPbc9paxbfmZpvx1OZcDQJtw/0]]></PicUrl>
+<MsgId>5943359195695808788</MsgId>
+<MediaId><![CDATA[U0eknQ7ZepG0VEpQxSNL4WVP5Kpa0e09RyQof8gsESwLzQ1anWOKfWajjJ593NVn]]></MediaId>
+</xml>
+Thu Nov 07 2013 11:51:06 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383796263</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[中午吃什么@王立国]]></Content>
+<MsgId>5943359693912015126</MsgId>
+</xml>
+Thu Nov 07 2013 11:54:10 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJWADg8-uSNt0Or2ZfJd2WI]]></FromUserName>
+<CreateTime>1383796450</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 11:56:21 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJWADg8-uSNt0Or2ZfJd2WI]]></FromUserName>
+<CreateTime>1383796581</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[test一个]]></Content>
+<MsgId>5943361059711615257</MsgId>
+</xml>
+Thu Nov 07 2013 12:07:23 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383797243</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufC0NOH5icqib0pHsRdDczSvPialFiaktgvtQdvueeXtn8RwE6LZRuh7IrXw/0]]></PicUrl>
+<MsgId>5943363902979965211</MsgId>
+<MediaId><![CDATA[P6O7oKkeWHzaK6PVeNd7imW_MNLrXUs00XknXQ-kzNxFJNArRK94-RvZXlTw-G2J]]></MediaId>
+</xml>
+Thu Nov 07 2013 12:13:24 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383797604</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uf3QwKoW3rMYu6DCIhPWIRpn2mBOsUswt9mnasZU6lLbb8BmfibB8UgSQ/0]]></PicUrl>
+<MsgId>5943365453463159069</MsgId>
+<MediaId><![CDATA[XkOirKL0XRa95uC-maAKWmjqeFBzvjdWVP3ReWWOzbjqBZgvM0nORUqFe-7ntASN]]></MediaId>
+</xml>
+Thu Nov 07 2013 12:16:05 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383797764</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufSTleMCCPIPibe3mLKhiasFevS0AvPicGcTYOdcsA4AgPUnDias9GNUecUg/0]]></PicUrl>
+<MsgId>5943366140657926431</MsgId>
+<MediaId><![CDATA[yDPjRxVQ7W_xfO9UUwG5yVJaCM5XLDujhe2dBV-fDNjhEAm2VT8bPoekbCnXskX1]]></MediaId>
+</xml>
+Thu Nov 07 2013 12:18:03 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uHD7YdiVOXJTcGc2fsuB49M]]></FromUserName>
+<CreateTime>1383797882</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 12:18:06 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383797886</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufeypt9Xe0XhWjicZDyn6kpYjicUAKPZVvTvZkBOEH344iaN9PnZTqYtVTQ/0]]></PicUrl>
+<MsgId>5943366664643936546</MsgId>
+<MediaId><![CDATA[233y9KGEf0buPD8vv2LrW-j0odv2NIc1CAmC24wOHWFMuzw5qmU3SgIcWceSZQhq]]></MediaId>
+</xml>
+Thu Nov 07 2013 12:18:10 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJStTZi-d1Wt9Zfc5PHrmag]]></FromUserName>
+<CreateTime>1383797890</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 12:18:52 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKO3tz4sRlcYA7OTvNvapFc]]></FromUserName>
+<CreateTime>1383797932</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 12:18:54 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKmZV1e6gs0rzLQAxjOreDc]]></FromUserName>
+<CreateTime>1383797934</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 12:19:03 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uFKvGRnoZW-8ff-jUCCxjNQ]]></FromUserName>
+<CreateTime>1383797943</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 12:19:04 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uHD7YdiVOXJTcGc2fsuB49M]]></FromUserName>
+<CreateTime>1383797943</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>5943366909457072424</MsgId>
+</xml>
+Thu Nov 07 2013 12:19:14 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKywbdzqHyliEYDzCuhhmhU]]></FromUserName>
+<CreateTime>1383797954</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 12:19:25 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uHD7YdiVOXJTcGc2fsuB49M]]></FromUserName>
+<CreateTime>1383797965</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/RtvAmJ3pcd3ribM6znF7QUT5voibic9pqIokSrGbl8UTrT78VLhpYicTRwOxEFj6y6au3EGGeM0iaftpzCshrEWp7Bg/0]]></PicUrl>
+<MsgId>5943367003946352939</MsgId>
+<MediaId><![CDATA[ndjSBT7QLGS5o9pFW6KbS3YaUuJOIXEsOtrWdmljhuI]]></MediaId>
+</xml>
+Thu Nov 07 2013 12:19:34 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJStTZi-d1Wt9Zfc5PHrmag]]></FromUserName>
+<CreateTime>1383797974</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[大家好]]></Content>
+<MsgId>5943367042601058605</MsgId>
+</xml>
+Thu Nov 07 2013 12:20:43 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uHD7YdiVOXJTcGc2fsuB49M]]></FromUserName>
+<CreateTime>1383798038</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[/::|]]></Content>
+<MsgId>5943367317478965551</MsgId>
+</xml>
+Thu Nov 07 2013 12:21:37 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKO3tz4sRlcYA7OTvNvapFc]]></FromUserName>
+<CreateTime>1383798097</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[test test 好好玩！]]></Content>
+<MsgId>5943367570882036017</MsgId>
+</xml>
+Thu Nov 07 2013 12:24:28 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uGTBqb8uXrNEIt6vJrqLSdI]]></FromUserName>
+<CreateTime>1383798268</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 12:27:37 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uGTBqb8uXrNEIt6vJrqLSdI]]></FromUserName>
+<CreateTime>1383798457</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[Hello  MD!]]></Content>
+<MsgId>5943369117070262580</MsgId>
+</xml>
+Thu Nov 07 2013 12:28:15 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKO3tz4sRlcYA7OTvNvapFc]]></FromUserName>
+<CreateTime>1383798494</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MjM3NzQwMA==&appmsgid=10000941&itemidx=1&sign=479828ef87b98ceafdeddf482f1f3167&uin=NDc1NDQ4NTc1&key=c61c4fa9345af812ff54df2d23cf75877642460be737ea97d3cddb1e8fe1cbcbcafe45c8c481d39416ee3848029a6ddc9b0c440b80e9a3b7ea336846f84afb8b4ccce111d45df1ed38c476c63cda1fca9e146d0fd246d8040264f85ca6d4ab27f64c5996dcfde15b2ab66dbc6950ecf9d0e7b3bde5fc5b2a5c726d21689d1ac5&devicetype=iPhone+OS7.0.3&version=15000311&lang=zh_TW]]></Content>
+<MsgId>5943369275984052534</MsgId>
+</xml>
+Thu Nov 07 2013 12:31:53 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383798713</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufC0NOH5icqib0pHsRdDczSvPialFiaktgvtQdvueeXtn8RwE6LZRuh7IrXw/0]]></PicUrl>
+<MsgId>5943370216581890360</MsgId>
+<MediaId><![CDATA[E242nklp2O6hGbwUKkT3GD33Y_01WVuN34s5U51zid2-5g3CwYbFManQXZ9JpWDm]]></MediaId>
+</xml>
+Thu Nov 07 2013 12:37:04 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383799024</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufC0NOH5icqib0pHsRdDczSvPialFiaktgvtQdvueeXtn8RwE6LZRuh7IrXw/0]]></PicUrl>
+<MsgId>5943371552316719418</MsgId>
+<MediaId><![CDATA[CuY7LAoIfrj8qOulN0QuUQN-QGpRCW4lfZXF1cOczEmsvplRn8rwDs_vlpuye0e7]]></MediaId>
+</xml>
+Thu Nov 07 2013 12:43:11 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383799391</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufO7vAfP1zJolJf1thsOtIib0kgKWS1DdNg2qfR07bmXwLxyh4MC4TFnA/0]]></PicUrl>
+<MsgId>5943373128569717052</MsgId>
+<MediaId><![CDATA[NciHxYKGc8IhWBUqm2x1zru_XqFb5kmY1fchBZHljwPa9patodf8XMyxcQbJWkH-]]></MediaId>
+</xml>
+Thu Nov 07 2013 12:46:09 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383799569</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufC0NOH5icqib0pHsRdDczSvPialFiaktgvtQdvueeXtn8RwE6LZRuh7IrXw/0]]></PicUrl>
+<MsgId>5943373893073895741</MsgId>
+<MediaId><![CDATA[fkuqSi9MobfTa2edH_U3xJImLsRMUN0DjsT7RmQp3s4fL70ErrQo6dLjunvj0vRP]]></MediaId>
+</xml>
+Thu Nov 07 2013 12:46:57 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uPiKOqDggZF7bMg5I3A8Bs4]]></FromUserName>
+<CreateTime>1383799617</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 12:49:24 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uPiKOqDggZF7bMg5I3A8Bs4]]></FromUserName>
+<CreateTime>1383799764</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>5943374730592518464</MsgId>
+</xml>
+Thu Nov 07 2013 12:57:13 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJH2PVkX9wP9KY64Y9xXpRI]]></FromUserName>
+<CreateTime>1383800231</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 12:58:55 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uI5UFGV_yPjh3DXjRRMRueU]]></FromUserName>
+<CreateTime>1383800335</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[.]]></Content>
+<MsgId>5943377183018844483</MsgId>
+</xml>
+Thu Nov 07 2013 13:00:12 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJH2PVkX9wP9KY64Y9xXpRI]]></FromUserName>
+<CreateTime>1383800412</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[/::D]]></Content>
+<MsgId>5943377513731326278</MsgId>
+</xml>
+Thu Nov 07 2013 13:00:57 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383800457</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufPTao6HGIl3dN2NbnWHLT7vse4tvpW4hzKZ0NmMGLzy9Ks2zSzicZcWg/0]]></PicUrl>
+<MsgId>5943377707004854600</MsgId>
+<MediaId><![CDATA[Df-1sWv4EXP1yJ_O3s0AxclUFdmMG3LEcgGLiHEVeVWThUtzvecJRXV3CJy4I0CC]]></MediaId>
+</xml>
+Thu Nov 07 2013 13:20:20 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uGKJG6n74ujpZ_TDI_rimPo]]></FromUserName>
+<CreateTime>1383801620</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[/::)]]></Content>
+<MsgId>5943382702051819850</MsgId>
+</xml>
+Thu Nov 07 2013 13:25:21 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uENwP1tLT5_L2rNG3aj7Jmk]]></FromUserName>
+<CreateTime>1383801919</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 13:27:12 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383802031</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufeypt9Xe0XhWjicZDyn6kpYjicUAKPZVvTvZkBOEH344iaN9PnZTqYtVTQ/0]]></PicUrl>
+<MsgId>5943384467283378509</MsgId>
+<MediaId><![CDATA[u5QEdxs_Ajq0IiTgVS-QekMli5JS5QYDEQlit7UiucV39ZKrMt3_FiaEFIULV14V]]></MediaId>
+</xml>
+Thu Nov 07 2013 13:27:31 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uENwP1tLT5_L2rNG3aj7Jmk]]></FromUserName>
+<CreateTime>1383802051</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>5943384553182724430</MsgId>
+</xml>
+Thu Nov 07 2013 13:30:17 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383802216</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufxclic099l6kX6aXn8BnTJhcPN5W2YOc2bic7iaKx7NoTmqE91m87TBXPg/0]]></PicUrl>
+<MsgId>5943385261852328272</MsgId>
+<MediaId><![CDATA[-44dukKCHxKvznWwyr2Po-Zc1VacjwA-XIpOR3Q6ElQjhCp_W2bkBb-e0qxHundy]]></MediaId>
+</xml>
+Thu Nov 07 2013 13:34:15 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uENwP1tLT5_L2rNG3aj7Jmk]]></FromUserName>
+<CreateTime>1383802451</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[“我的明道”服务号正式开通了！现在你就可以把微信里的内容直接分享到明道了！]]></Content>
+<MsgId>5943386271169642834</MsgId>
+</xml>
+Thu Nov 07 2013 13:46:46 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJ1Smn4QBWpuR9UxK1egNN4]]></FromUserName>
+<CreateTime>1383803206</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 13:48:15 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJ8h27uY8fPiCoZywyPJixY]]></FromUserName>
+<CreateTime>1383803295</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 13:51:42 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uI5yRNyr-3mP0HiCMI6-KCE]]></FromUserName>
+<CreateTime>1383803501</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 13:52:04 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uI5yRNyr-3mP0HiCMI6-KCE]]></FromUserName>
+<CreateTime>1383803524</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[']]></Content>
+<MsgId>5943390879669551447</MsgId>
+</xml>
+Thu Nov 07 2013 13:53:33 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJgpEDZ04L5HXbyjahI5u3I]]></FromUserName>
+<CreateTime>1383803614</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 13:54:11 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJ1Smn4QBWpuR9UxK1egNN4]]></FromUserName>
+<CreateTime>1383803651</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[无法绑定]]></Content>
+<MsgId>5943391425130398042</MsgId>
+</xml>
+Thu Nov 07 2013 13:55:32 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJ8h27uY8fPiCoZywyPJixY]]></FromUserName>
+<CreateTime>1383803732</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[好的]]></Content>
+<MsgId>5943391773022749020</MsgId>
+</xml>
+Thu Nov 07 2013 14:11:17 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383804677</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uft0VVmic29a0oMJuopKonq1ZyAx62jRspE6vibSgeo5LJNgokF8xicNC2w/0]]></PicUrl>
+<MsgId>5943395831766843742</MsgId>
+<MediaId><![CDATA[h9sG46NleWHCEeUu4-5t7qPbrDRt2BWE2Qv324In56zFTU7nPeGpvzJQtFHiGQlb]]></MediaId>
+</xml>
+Thu Nov 07 2013 14:13:03 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383804782</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufuPPwF8ee52UIsBvBGZNRnuFfxn9icAjuxbDjNCAEcDYna2cQgjJcb4A/0]]></PicUrl>
+<MsgId>5943396282738409823</MsgId>
+<MediaId><![CDATA[KElfsQMyzyInB9ckpSJZRc5aBU1CxQ_eiPRV3Gcv1f2dge1FoL0sMvhXHqqLLMGO]]></MediaId>
+</xml>
+Thu Nov 07 2013 14:14:45 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383804885</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uf4aCHQZLXNJ16IrcQW0anic1L4BpC4TVrPbc9paxbfmZpvx1OZcDQJtw/0]]></PicUrl>
+<MsgId>5943396725120041313</MsgId>
+<MediaId><![CDATA[rV-B7REYnACz1Wry8WpcCDuDkQKxIjYCe_csu_dvrxQa2AZPYT3MCHTo-nK1cRfg]]></MediaId>
+</xml>
+Thu Nov 07 2013 14:21:40 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJ8h27uY8fPiCoZywyPJixY]]></FromUserName>
+<CreateTime>1383805300</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[呵呵，今天和联合利华的客户吃饭。表扬了我们服务团队。踏实，沉得住气。低调。不惹麻烦。说起来，我们第一家进入大型品牌供应商体系的是联合利华服务团队；我们巨流无线第一次获得中国广告长城奖的，也是百事可乐服务团队；快消团队是公司承担收入利润的核心团队，同时也是对老杨，对我支撑需求最小的团体。踏实，低调，省事。呵呵，我每年就帮这个团队吃三顿饭。也起不了太大作用。但我估计，明年体量，会有可观增长。呵呵。]]></Content>
+<MsgId>5943398507531469155</MsgId>
+</xml>
+Thu Nov 07 2013 14:22:48 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJ8h27uY8fPiCoZywyPJixY]]></FromUserName>
+<CreateTime>1383805368</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/bOdTRh4PGAETibM2jDeUzr8SrLRLPzOJVqDB9FsWS863nZzoibdXB3DiahBLRPqfZ1zicyGqe8ZCYiaiavmydCZZdLsA/0]]></PicUrl>
+<MsgId>5943398799589245285</MsgId>
+<MediaId><![CDATA[NOxCIE-QEkEW3w0xYtmAjWXV3afYi7J0fCzHl48CnkFYzAyH1m4rcSWWVcyDfN77]]></MediaId>
+</xml>
+Thu Nov 07 2013 14:44:22 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uNP21quV3gzF7175dnDINBk]]></FromUserName>
+<CreateTime>1383806662</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 14:47:24 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383806842</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufJwdotia4ic8BIs11qZulEYVk77IT8QfgfibL9r6QDUTHMibibnR3sIWvOXw/0]]></PicUrl>
+<MsgId>5943405130371039592</MsgId>
+<MediaId><![CDATA[t2wB_S4LympppA1u7C-O2d1_j-9-UfoWd2pJA5Vi0Kj9SHFOQEwYiYzcoA6o_3Gx]]></MediaId>
+</xml>
+Thu Nov 07 2013 14:51:49 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383807109</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufJwdotia4ic8BIs11qZulEYVk77IT8QfgfibL9r6QDUTHMibibnR3sIWvOXw/0]]></PicUrl>
+<MsgId>5943406277127307626</MsgId>
+<MediaId><![CDATA[2LJ70ayjuB2iSfIaAO0TEQAxWgUgzdypRPToNFK0Dv4OJ-o5OWYjwhKXwS_4flBs]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:01:27 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLMR670ltwebeBNYL85cF2U]]></FromUserName>
+<CreateTime>1383807686</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 15:06:43 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383808002</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufuPPwF8ee52UIsBvBGZNRnuFfxn9icAjuxbDjNCAEcDYna2cQgjJcb4A/0]]></PicUrl>
+<MsgId>5943410112533102957</MsgId>
+<MediaId><![CDATA[tilEnZBuq--ptfFGD2qzMh0-wRzP5s13jGGzfMINX32uLq7DBcN4Ks16x4J2Osve]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:09:51 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uHjLX2q_grJWCIbjEUlZvT4]]></FromUserName>
+<CreateTime>1383808191</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 15:12:14 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383808333</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufeypt9Xe0XhWjicZDyn6kpYjicUAKPZVvTvZkBOEH344iaN9PnZTqYtVTQ/0]]></PicUrl>
+<MsgId>5943411534167277936</MsgId>
+<MediaId><![CDATA[Bx2Mn0tPj1KdE8dq7AUWO3BHXEaRTU5TL-rnSX0Vy8CYRK3H-ZbYTa_4QTW1127J]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:15:45 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383808545</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufvRknNtJGkIsfu1TR6Qiae2u2t6dEoTGmv84Z9m7QufSpqHHuGN7kHaQ/0]]></PicUrl>
+<MsgId>5943412444700344689</MsgId>
+<MediaId><![CDATA[wg3ceSNI3Wu2rUo60QQ5yk_VcrSkdPaCgVE7-u2eSC45VSqd4I4I7lud6NAX0D0X]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:16:25 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJUBYmuHl5Y1V8m07GssE1w]]></FromUserName>
+<CreateTime>1383808585</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 15:16:52 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383808612</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufxclic099l6kX6aXn8BnTJhcPN5W2YOc2bic7iaKx7NoTmqE91m87TBXPg/0]]></PicUrl>
+<MsgId>5943412732463153523</MsgId>
+<MediaId><![CDATA[z1AYdms290oFRCdgk0k6EzzEfxg9Zs2Qrt76eXswfntJA5DBGV-iOcy3MDWmaVlJ]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:19:51 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJgpEDZ04L5HXbyjahI5u3I]]></FromUserName>
+<CreateTime>1383808791</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈喽]]></Content>
+<MsgId>5943413501262299509</MsgId>
+</xml>
+Thu Nov 07 2013 15:23:14 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383808993</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufC0NOH5icqib0pHsRdDczSvPialFiaktgvtQdvueeXtn8RwE6LZRuh7IrXw/0]]></PicUrl>
+<MsgId>5943414368845693303</MsgId>
+<MediaId><![CDATA[zNF3fIf-t_BrP5qFFUpW5113__85Y2d3NdLlm_Mn6MmhY5InuQXLzE3HrbDp45sv]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:35:14 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383809713</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uft0VVmic29a0oMJuopKonq1ZyAx62jRspE6vibSgeo5LJNgokF8xicNC2w/0]]></PicUrl>
+<MsgId>5943417461222146425</MsgId>
+<MediaId><![CDATA[ZYnv01DIihZoxkMNy9AqofiDN4gNDoiYuO2LqiX6dXRZW0k16QuHCuwZSjE3nLkN]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:39:49 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383809988</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ggg]]></Content>
+<MsgId>5943418642338152827</MsgId>
+</xml>
+Thu Nov 07 2013 15:40:13 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383810012</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufV6RzcricPCOBE03YhjIDlG7ufD7ycWLwdvyLb0KNoPtZz5mH5UDbBsQ/0]]></PicUrl>
+<MsgId>5943418745417367933</MsgId>
+<MediaId><![CDATA[c4Y30-lak46rXtig8vUx7ckmOHKGAHuISwX2GEsTZnevSUqAXQyXijcEEd9Vs2tb]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:45:28 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383810328</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufJwdotia4ic8BIs11qZulEYVk77IT8QfgfibL9r6QDUTHMibibnR3sIWvOXw/0]]></PicUrl>
+<MsgId>5943420102627033471</MsgId>
+<MediaId><![CDATA[tmJKIOdTyjAR4j4JO3gIFoFnFQDFUazeZzEVZFCih6i5HTHd8wNJmH0vPztBMSLI]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:47:18 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383810437</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uft0VVmic29a0oMJuopKonq1ZyAx62jRspE6vibSgeo5LJNgokF8xicNC2w/0]]></PicUrl>
+<MsgId>5943420570778468737</MsgId>
+<MediaId><![CDATA[nqnEIaP6bZKDXqb3hLjFk8RJZLXEoBiBfl5cMaXu6qNbHiJf46GJ_kxViwp-5lhs]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:49:24 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383810563</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufJwdotia4ic8BIs11qZulEYVk77IT8QfgfibL9r6QDUTHMibibnR3sIWvOXw/0]]></PicUrl>
+<MsgId>5943421111944348035</MsgId>
+<MediaId><![CDATA[IRTwyKdeb0KRYIyg2XMQTN8XBv7iKc9_l2JkEr36IX1qso8j8Ek9qzJ1ay_z2QVv]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:50:41 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383810640</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufO7vAfP1zJolJf1thsOtIib0kgKWS1DdNg2qfR07bmXwLxyh4MC4TFnA/0]]></PicUrl>
+<MsgId>5943421442656829828</MsgId>
+<MediaId><![CDATA[Ig9TD0W1UD9MtSTiwRmfgeNefi987JLsc5cFvn4_dg2daKQgVmfK6ZFXhQ2TFI78]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:57:17 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383811036</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85ufxclic099l6kX6aXn8BnTJhcPN5W2YOc2bic7iaKx7NoTmqE91m87TBXPg/0]]></PicUrl>
+<MsgId>5943423143463879045</MsgId>
+<MediaId><![CDATA[9mxqqEU-MIeivKJNOFZJ91mPRWD9xuHscODEA76jiPjLykG-XMYvP7JJJSfOLOve]]></MediaId>
+</xml>
+Thu Nov 07 2013 15:58:06 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383811086</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/AP8FwrxvDSeEHHXjOU2eE05yWf6R85uft0VVmic29a0oMJuopKonq1ZyAx62jRspE6vibSgeo5LJNgokF8xicNC2w/0]]></PicUrl>
+<MsgId>5943423358212243846</MsgId>
+<MediaId><![CDATA[NtKvUxjltk8A3CRVSCnDBVjvatG-Uzq4Md2qPCbEyaLrtWL5HPef4C6iriWsnAIL]]></MediaId>
+</xml>
+Thu Nov 07 2013 16:02:47 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uF-M_a7Fv_FopjjVHX6nfuo]]></FromUserName>
+<CreateTime>1383811367</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 16:05:36 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uF-M_a7Fv_FopjjVHX6nfuo]]></FromUserName>
+<CreateTime>1383811536</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.192007</Location_X>
+<Location_Y>121.420708</Location_Y>
+<Scale>17</Scale>
+<Label><![CDATA[上海市长宁区中山西路1279弄6]]></Label>
+<MsgId>5943425290947527048</MsgId>
+</xml>
+Thu Nov 07 2013 16:10:22 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLD0O-5kfkeg4SHPtPwipgk]]></FromUserName>
+<CreateTime>1383811822</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.192007</Location_X>
+<Location_Y>121.420708</Location_Y>
+<Scale>18</Scale>
+<Label><![CDATA[上海市长宁区中山西路1279弄6号]]></Label>
+<MsgId>5943426519308173706</MsgId>
+</xml>
+Thu Nov 07 2013 16:32:03 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMiNd-g7CD0x9I4fISfA96o]]></FromUserName>
+<CreateTime>1383813122</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 16:33:04 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMiNd-g7CD0x9I4fISfA96o]]></FromUserName>
+<CreateTime>1383813182</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[怎么发到明道]]></Content>
+<MsgId>5943432360463696269</MsgId>
+</xml>
+Thu Nov 07 2013 16:34:19 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uEYqODFa2CWUJVm531jyqQ8]]></FromUserName>
+<CreateTime>1383813257</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 16:35:00 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMIv-JSlFcyHfMmBiKfC18A]]></FromUserName>
+<CreateTime>1383813300</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 16:53:10 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uJStTZi-d1Wt9Zfc5PHrmag]]></FromUserName>
+<CreateTime>1383814388</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.192007</Location_X>
+<Location_Y>121.420708</Location_Y>
+<Scale>17</Scale>
+<Label><![CDATA[上海市长宁区中山西路1279弄6]]></Label>
+<MsgId>5943437540194255249</MsgId>
+</xml>
+Thu Nov 07 2013 16:54:22 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLuKbDX7xuCqWIPM2TA7qc8]]></FromUserName>
+<CreateTime>1383814462</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 16:56:23 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLuKbDX7xuCqWIPM2TA7qc8]]></FromUserName>
+<CreateTime>1383814583</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>5943438377712877972</MsgId>
+</xml>
+Thu Nov 07 2013 16:58:14 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uDE1GZfgzNl5kY355Tzif3c]]></FromUserName>
+<CreateTime>1383814694</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 16:58:52 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uFKvGRnoZW-8ff-jUCCxjNQ]]></FromUserName>
+<CreateTime>1383814731</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你你]]></Content>
+<MsgId>5943439013368037783</MsgId>
+</xml>
+Thu Nov 07 2013 17:05:50 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLuKbDX7xuCqWIPM2TA7qc8]]></FromUserName>
+<CreateTime>1383815149</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/zJlNqFSJpIPbKIIMC151YcBUmR8pWwfrWibjhSjiaytZcLL5ZibPw79ZSF8lhPl5tml56FyFDzRccFvF1diaYOJiajw/0]]></PicUrl>
+<MsgId>5943440808664367513</MsgId>
+<MediaId><![CDATA[jxeAkv92oh8jJj4tCdm1hZlTqRE_6e2Qw-UAEmMEygcX7bnbppqA9_tmPLP0vslo]]></MediaId>
+</xml>
+Thu Nov 07 2013 17:06:14 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLuKbDX7xuCqWIPM2TA7qc8]]></FromUserName>
+<CreateTime>1383815173</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[CVh_ARQKZKQYS43cnlcoPfFdq5x_GztW6qGYRTTSJWEwEQUhCxmo_T_icaeV8bSC]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>5943440911743582618</MsgId>
+<Recognition><![CDATA[]]></Recognition>
+</xml>
+Thu Nov 07 2013 17:11:15 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKLscO4A-ovk3EI7TpWRvM0]]></FromUserName>
+<CreateTime>1383815474</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 17:13:12 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKLscO4A-ovk3EI7TpWRvM0]]></FromUserName>
+<CreateTime>1383815590</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[黑乎乎的]]></Content>
+<MsgId>5943442702744945053</MsgId>
+</xml>
+Thu Nov 07 2013 17:14:52 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uAk-3RsQnhE1aCM1Vvi6Yac]]></FromUserName>
+<CreateTime>1383815692</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.192438</Location_X>
+<Location_Y>121.436302</Location_Y>
+<Scale>18</Scale>
+<Label><![CDATA[上海市徐汇区虹桥路68号]]></Label>
+<MsgId>5943443140831609247</MsgId>
+</xml>
+Thu Nov 07 2013 17:16:40 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKLscO4A-ovk3EI7TpWRvM0]]></FromUserName>
+<CreateTime>1383815800</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.193575</Location_X>
+<Location_Y>121.422989</Location_Y>
+<Scale>18</Scale>
+<Label><![CDATA[上海市徐汇区凯旋路1700-1号]]></Label>
+<MsgId>5943443604688077217</MsgId>
+</xml>
+Thu Nov 07 2013 17:18:55 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uGKJG6n74ujpZ_TDI_rimPo]]></FromUserName>
+<CreateTime>1383815935</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[lj]]></Content>
+<MsgId>5943444184508662179</MsgId>
+</xml>
+Thu Nov 07 2013 17:20:49 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uC7TQ_aVfgrCi9bO502CAQ8]]></FromUserName>
+<CreateTime>1383816049</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 17:22:12 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uF7BoBAaEXt2Nj6CqfFXOzo]]></FromUserName>
+<CreateTime>1383816131</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 17:23:24 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLXut460LVEUooW0Q3Oo_j8]]></FromUserName>
+<CreateTime>1383816203</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 17:24:36 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLXut460LVEUooW0Q3Oo_j8]]></FromUserName>
+<CreateTime>1383816276</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[迟来的测试]]></Content>
+<MsgId>5943445649092510120</MsgId>
+</xml>
+Thu Nov 07 2013 17:25:56 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uILSBwEP6afUr_vjsIS8mX4]]></FromUserName>
+<CreateTime>1383816356</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 17:26:17 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uLXut460LVEUooW0Q3Oo_j8]]></FromUserName>
+<CreateTime>1383816376</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.192007</Location_X>
+<Location_Y>121.420708</Location_Y>
+<Scale>17</Scale>
+<Label><![CDATA[上海市长宁区中山西路1279弄6]]></Label>
+<MsgId>5943446078589239723</MsgId>
+</xml>
+Thu Nov 07 2013 17:31:15 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uMYW3dS3dY6lmpcfaQim3DA]]></FromUserName>
+<CreateTime>1383816674</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[分享我目前所在位置，我在 北京市朝阳区建国路88号SOHO现代城C座]]></Content>
+<MsgId>5943447358489493933</MsgId>
+</xml>
+Thu Nov 07 2013 17:43:50 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383817429</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ddfgg]]></Content>
+<MsgId>5943450601189802415</MsgId>
+</xml>
+Thu Nov 07 2013 17:48:57 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uH4IhXgeG55xHxiRSRNX3sg]]></FromUserName>
+<CreateTime>1383817737</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 17:55:17 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383818115</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[呵呵]]></Content>
+<MsgId>5943453547537367474</MsgId>
+</xml>
+Thu Nov 07 2013 17:56:20 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uPSarkXPmzzrQ-yxYpvm0mI]]></FromUserName>
+<CreateTime>1383818180</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 17:57:24 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uNtJM2RbJb9KdZzg2fHpFZI]]></FromUserName>
+<CreateTime>1383818244</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 17:58:48 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uBF0nastegIRabNcREmyG9s]]></FromUserName>
+<CreateTime>1383818328</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[ffg]]></Content>
+<MsgId>5943454462365401526</MsgId>
+</xml>
+Thu Nov 07 2013 21:05:58 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uCM5HsEuaMw3NViwSdvRWOc]]></FromUserName>
+<CreateTime>1383829557</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 23:21:53 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKAB9LrptS_76izKXoTWhtU]]></FromUserName>
+<CreateTime>1383837713</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Thu Nov 07 2013 23:25:52 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKAB9LrptS_76izKXoTWhtU]]></FromUserName>
+<CreateTime>1383837951</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://mp.weixin.qq.com/mp/appmsg/show?__biz=MjM5MjM4NTI2MQ%3D%3D&appmsgid=10000287&itemidx=1&sign=4f855aa878af0ec582c87b8af0265ce4&scene=2&from=timeline&isappinstalled=0&uin=MTA3Mjk5MzYyMw%3D%3D&key=703263b870c1e32e1105531826eb4326331d98d542353e44503acba93087f20a405319cf6f10fa20a549e5517516b479&devicetype=android-16&version=25000104&lang=zh_CN]]></Content>
+<MsgId>5943538742508650938</MsgId>
+</xml>
+Fri Nov 08 2013 01:04:24 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uNmyKZVqfgnJl9XEKYaUSF0]]></FromUserName>
+<CreateTime>1383843864</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Fri Nov 08 2013 01:05:52 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uB-1x3gmzLDC34rjiaIubCA]]></FromUserName>
+<CreateTime>1383843952</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+Fri Nov 08 2013 07:50:18 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uKLscO4A-ovk3EI7TpWRvM0]]></FromUserName>
+<CreateTime>1383868218</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>31.172563</Location_X>
+<Location_Y>121.389640</Location_Y>
+<Scale>18</Scale>
+<Label><![CDATA[上海市闵行区环镇南街]]></Label>
+<MsgId>5943668738283798974</MsgId>
+</xml>
+Fri Nov 08 2013 08:27:11 GMT+0800 (CST)	<xml><ToUserName><![CDATA[gh_2b93def68cf2]]></ToUserName>
+<FromUserName><![CDATA[oCNs9uDOALYyVk3fXkDZr_CfyaMY]]></FromUserName>
+<CreateTime>1383870431</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/98Nz5LFElxxDYvfL9wgscpmvtwPlLCQh2TKibGzSVWTibTszT3o9RxZ58CsejnmhGuq7jibH6uxlqoDgg5oG5QfZA/0]]></PicUrl>
+<MsgId>5943678243046425024</MsgId>
+<MediaId><![CDATA[hNWWDq-NFImoi_ZBP8ffnqOReaXltw3hYS7SZ8Mtwvciq2spRqDdi6APVWlOJVAx]]></MediaId>
+</xml>
