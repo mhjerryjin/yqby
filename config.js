@@ -3,8 +3,9 @@
         port: 80
     },
     redis: {
-        host: '127.0.0.1',
-        port: 6379,
+        host: 'pub-redis-17756.us-east-1-2.1.ec2.garantiadata.com',
+        port: 17756,
+        password: 'yqby',
         storage: {
             mainkey: 'md_weixin',
             mainMDkey: 'md_user_weixin',
