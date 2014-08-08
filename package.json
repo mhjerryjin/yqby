@@ -15,7 +15,7 @@
   "redis": ">=0.8.6",
   "request": ">=2.27.0",
   "xmldom": ">=0.1.16",
-  "xpath": ">=0.0.3"
+  "xpath.js": ">=0.0.3"
   },
   "devDependencies": {
   },
