@@ -4,13 +4,20 @@
 ***
 
 mainUserkey: 'yqby_user'  
-存储用户信息的key，field是用户编号，value同时存储用户发布的需求的编号和被分配到的需求编号，HASH
+存储用户信息的key，field是用户编号，value同时存储用户发布的需求的编号、已经完成的需求编号和被分配到的唯一的需求编号的JSON，HASH，JSON 格式如下  
+`{
+	ques: [],
+	finished: [],
+	assigned: id
+}`
 
 allQueskey: 'yqby_ques'  
-所有存储需求池子的key，field是需求编号，value是需求具体内容，为HASH，JSON 格式如下  
+所有存储需求池子的key，field是需求编号，value是需求具体内容的JSON，为HASH，JSON 格式如下  
 `{
-	ques: id,
-	user: userid
+	id: 需求编号,
+	time: 需求发布时间戳,
+	type: 微信类型，文本、图片、语音等,
+	msg: 不同类型有不同的字段属性，以上三个是必须的
 }`
 
 unAssignedQueskey: 'yqby_ques_unas'  
