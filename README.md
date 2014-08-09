@@ -1,6 +1,6 @@
 ##有求必应
 ***  
-#####微信处理接口地址：http://yqby.mingdao.net  
+####微信处理接口地址：http://yqby.mingdao.net  
 ***
 
 mainUserkey: 'yqby_user'  
