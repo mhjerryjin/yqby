@@ -10,6 +10,7 @@
 			allQueskey: 'yqby_ques',	//	所有存储需求池子的key，field是需求编号，value是需求具体内容，HASH
 			unAssignedQueskey: 'yqby_ques_unas',	//	尚未被分派的需求池子的key，value是需求的编号与发布作者的JSON，LIST
 			assignedQueskey: 'yqby_ques_as',	//	已经被分配的需求池子的key，filed是需求编号，value是被分配的用户编号，HASH
+			unConfirmedQueskey: 'yqby_ques_con',	//	待用户回复确认才发布的任务集合的key，field是用户编号，value是需求具体内容，HASH
 			accesstokenKey: 'yqby_wxat'	//暂存的accessToken，String
 		},
 		//用户上次操作有效时间
