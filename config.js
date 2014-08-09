@@ -1,4 +1,4 @@
-﻿var config = {
+﻿﻿var config = {
 	server: {
 		port: 3000
 	},
