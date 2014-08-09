@@ -24,9 +24,8 @@
         accesstokenExpiretime: 60
     },
     inputstatus: {
-        default: 0,
-        post_task: 1, // 正在分段发送需求
-        wait_for_deadline: 2 //点击发布完成，等待输入截止时间
+        post_task: '1', // 正在分段发送需求
+        wait_for_deadline: '2' //点击发布完成，等待输入截止时间
     },
     weixin: {
         token: 'xxoo',
