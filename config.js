@@ -8,8 +8,12 @@
         storage: {
             mainkey: 'yqby_weixin',
             mainMDkey: 'yqby_user_weixin',
-            userlpPrefix: 'yqby_wx_',
-            usergroupPrefix: 'yqby_wxug_',
+            userPrefix: 'yqby_user_',//hash 跟userid, 用户
+            taskPrefix: 'yqby_task_',//hash 跟随机生成的taskid, 需求
+            userInputStatusPrefix: 'yqby_user_inputstatus_',//用户发送消息的目的，比如发布需求
+            taskDesInputPrefix: 'yqby_task_des_',//list 跟userid, 正在发送的需求
+            taskAvailable: 'yqby_task_available',//set 未分配的需求
+            taskAssigned: 'yqby_task_assigned',//set 已分配的需求
             accesstokenKey: 'yqby_wxat'
         },
         //用户上次操作有效时间
@@ -18,6 +22,11 @@
         usergroupExpiretime: 480,
         //获取的访问令牌有效期
         accesstokenExpiretime: 60
+    },
+    inputstatus: {
+        default: 0,
+        post_task: 1, // 正在分段发送需求
+        wait_for_deadline: 2 //点击发布完成，等待输入截止时间
     },
     weixin: {
         token: 'xxoo',
@@ -37,6 +46,7 @@
         menu: {
             eventkey11: 'post_task_start',
             eventkey12: 'post_task_end',
+            eventkey13: 'post_task_cancel',
             eventkey21: 'my_task',
             eventkey31: 'personal_center'
         }
