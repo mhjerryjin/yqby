@@ -39,11 +39,11 @@
 			userinfo: 'https://api.weixin.qq.com/cgi-bin/user/info?lang=zh_CN'
 		},
 		menu: {
-			eventkey11: 'post_task_start',
-			eventkey12: 'post_task_end',
-			eventkey13: 'post_task_cancel',
-			eventkey21: 'my_task',
-			eventkey31: 'personal_center'
+			eventkey11: 'task_start',
+			eventkey21: 'task_detail',
+			eventkey22: 'task_ques',
+			eventkey23: 'task_end',
+			eventkey31: 'my_task'
 		}
 	},
 	filepath: 'd:/weixin/',
