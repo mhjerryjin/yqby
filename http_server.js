@@ -24,8 +24,24 @@ var http_server = function () {
 			});
 		}
 		else {
-			http.createServer(_this.on).listen(listen, function () {
+			var server = http.createServer(_this.on).listen(listen, function () {
 				console.log("success:在" + listen + "上跑起来了");
+			});
+			var io = require('socket.io').listen(server);
+			var db = require("./lib/db");
+
+			io.sockets.on('connection', function(socket){
+			  socket.on('init', function(info){
+			    socket.join(info.quesid);
+			    db.getComment(info.quesid, function(comments){
+			      socket.emit('comments', comments)
+			    });
+			  });
+			  socket.on('comment', function  (comment) {
+			    db.addComment(comment.quesid, comment, function(){
+			      io.sockets.in(comment.quesid).emit('comment', comment);
+			    });
+			  });
 			});
 		}
 	};
