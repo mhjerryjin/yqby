@@ -25,7 +25,8 @@ unAssignedQueskey: 'yqby_ques_unas'
 尚未被分派的需求池子的key，value是需求的编号与发布作者的JSON，为LIST结构，JSON 格式如下  
 `{
 	qid: id,
-	user: userid
+	user: userid,
+	name: 微信昵称	
 }`
 
 assignedQueskey: 'yqby_ques_as'  
