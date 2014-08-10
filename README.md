@@ -6,6 +6,7 @@
 mainUserkey: 'yqby_user'  
 存储用户信息的key，field是用户编号，value同时存储用户发布的需求的编号、已经完成的需求编号和被分配到的唯一的需求编号的JSON，为HASH结构，JSON 格式如下  
 `{
+	name: 微信昵称,
 	ques: [],
 	finished: [],
 	assigned: id
@@ -31,7 +32,10 @@ assignedQueskey: 'yqby_ques_as'
 已经被分配的需求池子的key，filed是需求编号，value是被分配的用户编号，为HASH结构
 
 unConfirmedQueskey: 'yqby_ques_con'  
-待用户回复确认才发布的任务集合的key，field是用户编号，value是需求具体内容，为HASH结构
+待用户回复确认才发布的任务集合的key，field是用户编号，value是需求具体内容的JSON（结构跟allQueskey相似），为HASH结构
+
+unAssignedConQueskey: 'yqby_ques_unascon'  
+待用户回复确认才接受的任务集合的key，field是用户编号，value是需求具体内容的JSON（结构跟unAssignedQueskey相似），为HASH结构
 			
 accesstokenKey: 'yqby_wxat'  
 暂存的accessToken，为String结构
