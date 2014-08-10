@@ -18,6 +18,8 @@ allQueskey: 'yqby_ques'
 	id: 需求编号,
 	time: 需求发布时间戳,
 	type: 微信类型，文本、图片、语音等,
+	from: 微信用户ID,
+	name: 微信用户昵称,
 	msg: 不同类型有不同的字段属性，以上三个是必须的
 }`
 
