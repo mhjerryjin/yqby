@@ -24,9 +24,8 @@ var http_server = function () {
 			});
 		}
 		else {
-			var server = http.createServer(_this.on).listen(listen, function () {
-				console.log("success:在" + listen + "上跑起来了");
-			});
+			var server = http.createServer(_this.on);
+
 			var io = require('socket.io').listen(server);
 			var db = require("./lib/db");
 
@@ -42,6 +41,10 @@ var http_server = function () {
 			      io.sockets.in(comment.quesid).emit('comment', comment);
 			    });
 			  });
+			});
+			
+			server.listen(listen, function () {
+				console.log("success:在" + listen + "上跑起来了");
 			});
 		}
 	};
