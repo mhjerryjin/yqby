@@ -17,8 +17,6 @@ var me = {
 }
 
 (function() {
-
-
   $('#send').on('click',function(){
     var myComment = $.trim($('#myComment').val());
     if(myComment){

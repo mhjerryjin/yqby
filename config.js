@@ -52,9 +52,11 @@ exports.config = config;
 
 var accessHandler = require("./lib/access");
 var menuHandler = require("./lib/menu");
+var commentHandler = require('./lib/commentPage');
 var handle = {};
 handle["/"] = accessHandler.homepage;
 handle["/access"] = accessHandler.access;
 handle["/menu/create"] = menuHandler.createmenu;
 handle["/menu/remove"] = menuHandler.removemenu;
+handle["/comment"] = commentHandler.comment;
 exports.router = handle;
