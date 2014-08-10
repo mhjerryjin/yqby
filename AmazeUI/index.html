@@ -1,0 +1,83 @@
+<!doctype html>
+<html class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>任务讨论</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="Cache-Control" content="no-siteapp" />
+  <link rel="icon" type="image/png" href="assets/i/favicon.png">
+  <link rel="apple-touch-icon-precomposed" href="assets/i/app-icon72x72@2x.png">
+  <meta name="apple-mobile-web-app-title" content="Amaze UI" />
+  <link rel="stylesheet" href="assets/css/amui.all.min.css">
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+<!--[if lte IE 9]>
+<p class="browsehappy">你正在使用<strong>过时</strong>的浏览器，Amaze UI 暂不支持。 请 <a href="http://browsehappy.com/" target="_blank">升级浏览器</a>
+  以获得更好的体验！</p>
+<![endif]-->
+
+<div class="am-modal am-modal-loading am-modal-no-btn" tabindex="-1" id="my-modal-loading">
+  <div class="am-modal-dialog">
+    <div class="am-modal-hd">正在载入...</div>
+    <div class="am-modal-bd">
+      <span class="am-icon-spinner am-icon-spin"></span>
+    </div>
+  </div>
+</div>
+
+<ul id="comments"></ul>
+<script type="text/template" id="tplComment">
+<li class="am-comment"> <!-- 评论容器 -->
+  <a href="">
+    <img class="am-comment-avatar" alt=""/> <!-- 评论者头像 -->
+  </a>
+  <div class="am-comment-main"> <!-- 评论内容容器 -->
+    <div class="am-comment-bd">这里是评论内容</div> <!-- 评论内容 -->
+  </div>
+</li>
+</script>
+
+  <div class="am-col col-lg-6" style="position:fixed;bottom:52px;padding:0;">
+    <div class="am-input-group">
+      <input type="text" class="am-form-field" id="myComment">
+      <span class="am-input-group-btn">
+        <button class="am-btn am-btn-default" type="button" id="send">发送</button>
+      </span>
+    </div>
+  </div>
+
+<div data-am-widget="navbar" class="am-navbar am-cf am-navbar-default am-navbar-top" id="">
+      <ul class="am-cf sm-block-grid-3">
+          <li class="am-navbar-item">
+            <a href="tel:123456789">
+                  <span class="am-icon-location-arrow"></span>
+                任务描述
+            </a>
+          </li>
+          <li class="am-navbar-item am-navbar-share" data-am-navbar-share="">
+            <a href="">
+                  <span class="am-icon-share-square-o"></span>
+                求助朋友
+            </a>
+          </li>
+          <li class="am-navbar-item am-navbar-qrcode" data-am-navbar-qrcode="">
+            <a href="">
+                  <span class="am-icon-phone"></span>
+                联系我们
+            </a>
+          </li>
+      </ul>
+  </div>
+
+<script src="http://libs.baidu.com/zepto/1.1.3/zepto.min.js"></script>
+<script>window.Zepto || document.write('<script src="assets/js/zepto.min.js?1.1.3"><\/script>')</script>
+<script src="assets/js/amui.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
