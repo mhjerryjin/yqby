@@ -17,11 +17,7 @@ var me = {
 }
 
 (function() {
-  socket = io.connect('/');
 
-  socket.on('comment', function(comment){
-    addComment(comment);
-  });
 
   $('#send').on('click',function(){
     var myComment = $.trim($('#myComment').val());
@@ -43,13 +39,19 @@ var me = {
     $comments.append($item);
   };
 
+  var socket = io.connect('/');
+
+  socket.on('comment', function(comment){
+    addComment(comment);
+  });
+
   var sendComment = function(message) {
     var comment = $.extend({}, me, {message: message});
     socket.emit('comment', comment);
   }
 
   loading.on('opened:modal:amui', function(){
-      $.emit('init', me);
+      socket.emit('init', me);
   });
 
   socket.on('comments', function(comments){
