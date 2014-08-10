@@ -12,6 +12,7 @@
 			assignedQueskey: 'yqby_ques_as',    //  已经被分配的需求池子的key，filed是需求编号，value是被分配的用户编号，HASH
 			unConfirmedQueskey: 'yqby_ques_uncon',  //  待用户回复确认才发布的任务集合的key，field是用户编号，value是需求具体内容，HASH
 			unAssignedConQueskey: 'yqby_ques_unascon',    //  待用户回复确认才接受的任务集合的key，field是用户编号，value是需求编号和用户编号，HASH
+            commentPrefix: 'yqby_comment_', // 需求讨论的key前缀，跟上需求的id，LIST
 			accesstokenKey: 'yqby_wxat' //暂存的accessToken，String
 		},
 		//用户上次操作有效时间
@@ -51,9 +52,11 @@ exports.config = config;
 
 var accessHandler = require("./lib/access");
 var menuHandler = require("./lib/menu");
+var commentHandler = require('./lib/commentPage');
 var handle = {};
 handle["/"] = accessHandler.homepage;
 handle["/access"] = accessHandler.access;
 handle["/menu/create"] = menuHandler.createmenu;
 handle["/menu/remove"] = menuHandler.removemenu;
+handle["/comment"] = commentHandler.comment;
 exports.router = handle;
